@@ -1,0 +1,6 @@
+﻿  Exec.cpp
+  MyForm.cpp
+  Создание кода...
+  Exec.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : warning LNK4247: є Єюўъш тїюфр ""int __clrcall Main(cli::array<class System::String ^ >^)" (?Main@@$$FYMHP$01AP$AAVString@System@@@Z)" єцх хёЄ№ рЄЁшсєЄ яюЄюър; "/CLRTHREADATTRIBUTE:MTA" эх єўшЄ√трхЄё
+  Project2.vcxproj -> D:\Life on vuz\ВУЗ\Семестр 4\Прямое\ООП\Курсач\Project3\Debug\Project2.exe
